@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import style from './app.scss';
 
-
 const App = () => {  
     return (
       <div className={style.app}>
